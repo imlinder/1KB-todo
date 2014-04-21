@@ -1,0 +1,12 @@
+{
+  "name": "1kb-list",
+  "version": "0.1.0",
+  "author": "imLinder",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-inline": "^0.2.7",
+    "grunt-contrib-htmlmin": "^0.2.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}

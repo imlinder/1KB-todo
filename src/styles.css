@@ -1,0 +1,33 @@
+body {
+  padding: 1em;
+  font-family: sans-serif;
+  font-weight: 100;
+  max-width: 400px;
+  margin: auto;
+}
+form, ul {
+  padding: 0;
+  color: white;
+  margin: .5em 0;
+}
+input, li {
+  padding: 1em;
+  border: none;
+}
+input {
+  font-size: 1em;
+  background: #eee;
+  width: 100%;
+}
+li {
+  border-bottom: 2px solid #155fb1;
+  margin-bottom: .5em;
+  background: #3688d5;
+  list-style: none;
+  word-wrap: break-word;
+}
+a {
+  float: right;
+  color: #155fb1;
+  cursor: pointer;
+}
