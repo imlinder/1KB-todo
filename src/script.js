@@ -1,6 +1,6 @@
 var d = document;
 var s = localStorage;
-
+var t = d.getElementById('t');
 // add list item
 function a() {
   var value = t.value;
